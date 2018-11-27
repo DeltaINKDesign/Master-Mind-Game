@@ -5,13 +5,9 @@ Enjoy !
 
 Some screenshots: 
 
+![mastermind1](https://user-images.githubusercontent.com/20402746/49086717-7ee6d880-f255-11e8-98a7-dd874ead38ea.PNG)
+![mastermind2](https://user-images.githubusercontent.com/20402746/49086718-7ee6d880-f255-11e8-8a0f-12a4a337a10c.PNG)
+![mastermind3](https://user-images.githubusercontent.com/20402746/49086719-7ee6d880-f255-11e8-81b3-6c451d5b023b.PNG)
+![mastermind4](https://user-images.githubusercontent.com/20402746/49086720-7ee6d880-f255-11e8-9f13-b4badd6a5902.PNG)
+![mastermind5](https://user-images.githubusercontent.com/20402746/49086721-7f7f6f00-f255-11e8-91f4-a38ad9928df6.PNG)
 
-![mastermind1](https://user-images.githubusercontent.com/20402746/49085692-dfc0e180-f252-11e8-828e-fbe5dd4caee3.PNG)
-
-![mastermind2](https://user-images.githubusercontent.com/20402746/49085695-e3ecff00-f252-11e8-8066-6ae929f86d62.PNG)
-
-![mastermind3](https://user-images.githubusercontent.com/20402746/49085700-e7808600-f252-11e8-8675-b522b69507a5.PNG)
-
-![mastermind4](https://user-images.githubusercontent.com/20402746/49085701-e7808600-f252-11e8-9280-98771a3669e5.PNG)
-
-![mastermind5](https://user-images.githubusercontent.com/20402746/49085702-e7808600-f252-11e8-9b8b-717427248593.PNG)
